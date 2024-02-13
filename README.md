@@ -1,6 +1,6 @@
 # My GitHub Profile
+![image](https://github.com/R0oKiExCo0kie/R0oKiExCo0kie/assets/159783064/a21b2ff1-3af1-49e9-b449-1fe927d4c1d1)
 
-![My Image]<!-- Replace with your image -->
 
 ## 📖 About Me
 Nice To meet you, I'm a beginner improving my skills trying to get better everyday.
