@@ -1,16 +1,29 @@
-### Hi there 👋
+# My GitHub Profile
 
-<!--
-**R0oKiExCo0kie/R0oKiExCo0kie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Image]<!-- Replace with your image -->
 
-Here are some ideas to get you started:
+## 📖 About Me
+Nice To meet you, I'm a beginner improving my skills trying to get better everyday.
+Have a good Day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Technologies I Work With
+
+- Language: Python
+- Tools: Git,VS code
+- Operating Systems: Linux, EndeavourOS
+
+## 📈 My GitHub Statistics
+
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=R0oKiExCo0kie&show_icons=true&theme=radical)](https://github.com/R0oKiExCo0kie) <!-- Replace 'yourusername' with your actual username -->
+
+## 👷 Projects
+
+Here are some of the projects I've been working on:
+
+- [Project  1](https://github.com/R0oKiExCo0kie/Music-Player)
+
+
+---
+
+©  2024 Harish
